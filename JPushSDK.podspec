@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'WeChatSDK'
+  s.name         = 'JPushSDK'
   s.version      = '2.1.7'
   s.summary      = '极光推送SDK for iOS'
   s.homepage     = 'https://github.com/linhan6177/JPushSDK.git'
